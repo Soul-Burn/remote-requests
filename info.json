@@ -1,0 +1,13 @@
+{
+  "name": "remote-requests",
+  "version": "0.1.1",
+  "title": "Remote Requests",
+  "author": "Soul-Burn",
+  "factorio_version": "1.1",
+  "description": "Allows requesting remote insertion and removal of items from buildings",
+  "dependencies": [
+    "base >= 1.1.90",
+    "RemoteConfiguration",
+    "CursorEnhancements"
+  ]
+}
