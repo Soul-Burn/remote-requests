@@ -1,5 +1,5 @@
 Version: 0.1.0
-Date: ???
+Date: 2023-11-18
   Info:
     - Initial release.
   Locale:
